@@ -10,7 +10,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
     <div className="container">
          <i class="fas fa-tablet-alt" style={{fontSize:"27px",color:"white", marginRight:"15px"}}></i>
-        <Link className="navbar-brand" to="/">Khabri-Wala</Link>
+        <h5 style={{color:"white"}}>Khabri-Wala</h5>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" onClick={() =>setShow(!show)}>
         <span className="navbar-toggler-icon"></span>
         </button>
