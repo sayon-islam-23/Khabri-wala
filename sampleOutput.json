@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rachel Pannett",
+            "title": "Taliban spokesman says 'no proof' bin Laden was responsible for 9/11 attacks - The Washington Post",
+            "description": "When it was last in power, the Taliban provided a safe harbor in Afghanistan for bin Laden.",
+            "url": "https://www.washingtonpost.com/world/2021/08/26/taliban-bin-laden/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NZKKN7QE74I6ZM6EYRRLD3OPZA.jpg&w=1440",
+            "publishedAt": "2021-08-26T14:29:20Z",
+            "content": "Zabihullah Mujahid made the remark after the Islamist militant group pledged not to allow Afghanistan to be used once again as a base for al-Qaeda.\r\nWhen Osama bin Laden became an issue for the Ameri… [+1677 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Barbara Starr, Kylie Atwood and Ivana Kottasová, CNN",
+            "title": "Blast reported outside Hamid Karzai International Airport in Kabul - CNN",
+            "description": "An explosion took place outside the Kabul airport on Thursday as the United States and other countries try to evacuate their citizens and Afghans at risk from the Taliban.",
+            "url": "https://www.cnn.com/2021/08/26/asia/afghanistan-kabul-airport-blast-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210826103803-kabul-airport-map-super-tease.jpg",
+            "publishedAt": "2021-08-26T14:21:00Z",
+            "content": "(CNN)An explosion took place outside the Kabul airport on Thursday as the United States and other countries try to evacuate their citizens and Afghans at risk from the Taliban.\r\nThree US officials an… [+2792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Rallies Ahead Of Jackson Hole Summit; Salesforce Jumps On Earnings - Investor's Business Daily",
+            "description": "The Dow Jones Industrial Average rallied 90 points Thursday ahead of a Fed summit, as jobless claims missed estimates. Salesforce surged.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-jackson-hole-economic-data-salesforce-jumps-on-earnings/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/10/stock-Federal-Reserve-fall-12-shutter.jpg",
+            "publishedAt": "2021-08-26T14:00:00Z",
+            "content": "The Dow Jones Industrial Average rallied 90 points Thursday, as jobless claims missed estimates ahead of the Federal Reserve's Jackson Hole summit. Dow Jones leader Salesforce jumped on strong earnin… [+6522 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "Sandee Lamotte, CNN",
+            "title": "Utahn included in multistate salmonella outbreak involving Italian deli meats - KSL.com",
+            "description": "A dozen people have been hospitalized with salmonella and two dozen sickened as of Aug. 24 in multistate outbreaks of two different strains of salmonella, the U.S. Centers for Disease Control and Prevention announced Wednesday.",
+            "url": "https://www.ksl.com/article/50228983/utahn-included-in-multistate-salmonella-outbreak-involving-italian-deli-meats",
+            "urlToImage": "https://img.ksl.com/slc/2838/283863/28386333.jpg?filter=ksl/responsive_story_lg",
+            "publishedAt": "2021-08-26T13:36:56Z",
+            "content": "WASHINGTON A dozen people have been hospitalized with salmonella and two dozen sickened as of Aug. 24 in multistate outbreaks of two different strains of salmonella, the U.S. Centers for Disease Cont… [+2734 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chaim Gartenberg",
+            "title": "TSMC is raising chip prices as supply shortages continue - The Verge",
+            "description": "TSMC, the largest chipmaker in the world that makes processors for Apple, AMD, Nvidia, and more, has announced that it’s raising prices on chips as the ongoing shortage continues.",
+            "url": "https://www.theverge.com/2021/8/26/22642627/tsmc-chip-price-increase-supply-shortages-apple-qualcomm",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/oUXybVoRUIHtEUo7JhOIruDKh3c=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22481674/acastro_210430_1777_semiCon_0003.jpg",
+            "publishedAt": "2021-08-26T13:35:58Z",
+            "content": "Which means gadget price increases could be next\r\nIllustration by Alex Castro / The Verge\r\nTSMC is the biggest chipmaker in the world and the company responsible for the processors used by Apple, AMD… [+2154 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Scott Peterson, convicted of killing pregnant wife, is one step closer in push for new trial - NBC News",
+            "description": "A California judge said Wednesday that she anticipates a two-week hearing early next year before she decides if Scott Peterson deserves a new trial in the 2002 death of his pregnant wife.",
+            "url": "https://www.nbcnews.com/news/us-news/scott-peterson-convicted-killing-pregnant-wife-one-step-closer-push-n1277680",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_34/3501642/210826scott-peterson-mc-1342.JPG",
+            "publishedAt": "2021-08-26T13:25:23Z",
+            "content": "SACRAMENTO, Calif. A California judge said Wednesday that she anticipates a two-week hearing early next year before she decides if Scott Peterson deserves a new trial in the 2002 death of his pregnan… [+2679 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Sheetz",
+            "title": "Watch Blue Origin launch its New Shepard rocket carrying research for NASA - CNBC",
+            "description": "Jeff Bezos' Blue Origin launched its New Shepard rocket for the fourth time this year but Thursday's mission did not carry people inside the capsule.",
+            "url": "https://www.cnbc.com/2021/08/26/blue-origin-ns-17-livestream-watch-new-shepard-launch-nasa-research.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106913523-16267881272021-07-20t133302z_1409759657_hp1eh7k11mz01_rtrmadp_0_space-exploration-blueorigin.jpeg?v=1626788167",
+            "publishedAt": "2021-08-26T13:05:37Z",
+            "content": "[The company's livestream has ended. A replay is available above.]\r\nJeff Bezos' Blue Origin launched its New Shepard rocket for the fourth time this year but, despite carrying the billionaire founder… [+1686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lauren Feiner",
+            "title": "Politico sells to German publishing giant Axel Springer in deal worth about $1 billion - CNBC",
+            "description": "The acquisition grows the publishing group's portfolio further, adding to its ownership of Insider and Morning Brew.",
+            "url": "https://www.cnbc.com/2021/08/26/axel-springer-to-buy-politico.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106933555-1629981618715-gettyimages-136480607-67866055.jpeg?v=1629981703",
+            "publishedAt": "2021-08-26T12:48:19Z",
+            "content": "German publisher Axel Springer announced Thursday that it plans to acquire digital media site Politico. The companies did not disclose a price for the deal, but a person familiar with the matter said… [+1402 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Alexandra Olson",
+            "title": "Half of US workers favor employee shot mandate: AP-NORC poll - Associated Press",
+            "description": "NEW YORK (AP) — Half of American workers are in favor of vaccine requirements at their workplaces, according to a new poll , at a time when such mandates gain traction  following the federal government's full approval of Pfizer's COVID-19 vaccine.",
+            "url": "https://apnews.com/article/lifestyle-business-health-travel-coronavirus-pandemic-1afb2682d6e08cdb54c5131f967f278a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/14d1bd007f9a4d2399b8fa8106ab716e/3000.jpeg",
+            "publishedAt": "2021-08-26T12:08:14Z",
+            "content": "NEW YORK (AP) Half of American workers are in favor of vaccine requirements at their workplaces, according to a new poll, at a time when such mandates gain traction following the federal governments … [+5058 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Magdalena Petrova",
+            "title": "The International Space Station will soon be retired, but a replacement likely won't come from NASA - CNBC",
+            "description": "The International Space Station will likely be retired within the decade. NASA hopes to save money by having commercial companies build the next space outpost.",
+            "url": "https://www.cnbc.com/2021/08/26/heres-why-the-next-space-station-will-be-commercial.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106933045-1629902815272-51382291327_518a3dbfe2_o.jpg?v=1629902994",
+            "publishedAt": "2021-08-26T12:00:01Z",
+            "content": "The International Space Station got its start in 1998 when its first segments were launched, and it's now starting to show its age.\r\nSince 2000, the ISS has continuously housed a rotating group of as… [+1109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.https"
+            },
+            "author": "New York Post",
+            "title": "Rolling Stones will go ahead with US tour after Charlie Watts' death - Fox News",
+            "description": "It’s only rock ‘n’ roll, so the Rolling Stones will play on without drummer Charlie Watts — and you’ll like it.",
+            "url": "https://www.https://nypost.com/2021/08/25/rolling-stones-will-tour-us-next-month-after-charlie-watts-death/?_ga=2.18114041.1386121084.1629637446-95759114.1560821173",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Charlie-Watts-Getty.jpg",
+            "publishedAt": "2021-08-26T11:59:18Z",
+            "content": "Its only rock n roll, so the Rolling Stones will play on without drummer Charlie Watts and youll like it.\r\nThe rock band will continue their US tour in September, according to the Sun, and the band w… [+3735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Bill Alpert",
+            "title": "Covid Infections Are Surging. When Will a Vaccine Be Ready for Children Under 12? - Barron's",
+            "description": "Emergency use authorization of the pediatric version of Pfizer's Covid vaccine could come after it submits data in September.",
+            "url": "https://www.barrons.com/articles/covid-vaccine-children-under-12-timeline-51629943320",
+            "urlToImage": "https://images.barrons.com/im-391034/social",
+            "publishedAt": "2021-08-26T11:55:00Z",
+            "content": "Urgency and caution are in high tension now as schooling resumes and infections by the Delta variant of the Covid-19 virus surge among unvaccinated Americans. That includes children.The Food and Drug… [+3721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian sport",
+            "title": "MLS-Liga MX All-Star game halted after homophobic chanting - The Guardian",
+            "description": "MLS’s best players beat their Mexican counterparts in an entertaining game marred by chants that have marred the sport for years",
+            "url": "https://amp.theguardian.com/football/2021/aug/26/mls-liga-mx-all-star-game-halted-homophobic-chant-soccer",
+            "urlToImage": null,
+            "publishedAt": "2021-08-26T11:47:00Z",
+            "content": "MLS<ul><li>Officials call halt to game after chants heard in first-half</li><li>MLS team win on penalty shootout after lively game </li></ul>\r\nThu 26 Aug 2021 12.47 BST\r\nNew England goalkeeper Matt T… [+4316 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Zoe Zoe",
+            "title": "ESPN takes Rachel Nichols off NBA coverage and cancels her show - CBS News",
+            "description": "The decision follows backlash over leaked comments she made about her former colleague Maria Taylor.",
+            "url": "https://www.cbsnews.com/news/rachel-nichols-espn-nba-coverage-the-jump/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/06/0352871d-80b0-4f8d-85c9-d4333104c31e/thumbnail/1200x630/241e1a216055a5c5320855935f978bee/gettyimages-1091906438.jpg",
+            "publishedAt": "2021-08-26T11:41:11Z",
+            "content": "ESPN is pulling reporter Rachel Nichols from its NBA coverage and canceling her show \"The Jump,\" the network confirmed Wednesday. The decision follows backlash over leaked comments she made about her… [+1625 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maeve Reston, CNN",
+            "title": "Recall candidates target California Gov. Gavin Newsom and his top GOP rival Larry Elder in debate - CNN",
+            "description": "As polls have tightened dramatically in recent weeks in the effort to recall Gavin Newsom, the Democratic California governor and his allies have been warning of doomsday scenarios if he is ousted on September 14 and replaced by a conservative Republican bent…",
+            "url": "https://www.cnn.com/2021/08/26/politics/california-recall-debate/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210823013853-01-gavin-newsom-0817-super-tease.jpg",
+            "publishedAt": "2021-08-26T11:27:00Z",
+            "content": "(CNN)As polls have tightened dramatically in recent weeks in the effort to recall Gavin Newsom, the Democratic California governor and his allies have been warning of doomsday scenarios if he is oust… [+8887 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland, CNN",
+            "title": "This new class of hot ocean worlds could support life - CNN",
+            "description": "Astronomers have a new class of habitable exoplanets to look for: Hycean planets. These hot ocean worlds are more prevalent across the galaxy and a promising place to search for life outside of our solar system.",
+            "url": "https://www.cnn.com/2021/08/26/world/hycean-planets-habitable-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210825154442-exoplanets-hycean-super-tease.jpg",
+            "publishedAt": "2021-08-26T10:16:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Jaclyn Diaz",
+            "title": "An Australian Sheep Farmer Uses His Animals To Offer A Tribute To His Late Aunt - NPR",
+            "description": "When Ben Jackson couldn't get to his beloved aunt's funeral, he wanted to offer a unique tribute — and he knew what to ewes.",
+            "url": "https://www.npr.org/2021/08/26/1031204615/this-australian-farmer-isnt-sheepish-about-showing-love-for-his-late-aunt",
+            "urlToImage": "https://media.npr.org/assets/img/2021/08/26/ap21238217420351_wide-4089d138cf7d61ca18556edce7010db601fbbd30.jpg?s=1400",
+            "publishedAt": "2021-08-26T10:09:29Z",
+            "content": "In this image taken from video, sheep form the shape of a heart in a field in Guyra, northern New South Wales, Australia, Thursday, Aug. 5, 2021.\r\nBen Jackson/AP\r\nAustralian sheep farmer Ben Jackson … [+1029 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chicago Tribune"
+            },
+            "author": "Rex Huppke",
+            "title": "Column: COVID-19 vaccine mandates are coming. The willfully unvaccinated are about to see their world shrink. - Chicago Tribune",
+            "description": "COVID-19 vaccine mandates are coming. The willfully unvaccinated are about to see their world shrink.",
+            "url": "https://www.chicagotribune.com/columns/rex-huppke/ct-vaccine-mandate-covid-coronavirus-mask-florida-chicago-cases-surge-huppke-20210826-4ntjctr65rdylptpd6x3ikr22a-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/rFvVJuC3V4bvDsuO_U6Q8wgWYMI=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/KZU2RKWD4JCZVE7HOWSXXM2EAY.jpg",
+            "publishedAt": "2021-08-26T10:00:00Z",
+            "content": "I have bad news for the willfully unvaccinated: COVID-19 vaccine mandates are coming, and your world is about to shrink to the size of a tweet.\r\nVaccine mandates, with medical and religious exemption… [+5430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Weather Channel"
+            },
+            "author": null,
+            "title": "Caribbean Disturbance Could Become a Tropical Storm or Hurricane Threat For US Gulf Coast | The Weather Channel - Articles from The Weather Channel | weather.com - The Weather Channel",
+            "description": "Here's what we know about the latest potential Caribbean tropical system we are tracking into early next week. - Articles from The Weather Channel | weather.com",
+            "url": "https://weather.com/safety/hurricane/news/2021-08-26-caribbean-disturbance-tropical-storm-hurricane-gulf-coast",
+            "urlToImage": "https://s.w-x.co/carib-system-thuam.jpeg",
+            "publishedAt": "2021-08-26T09:52:08Z",
+            "content": "At a Glance\r\n<ul><li>A Caribbean tropical disturbance is likely to become a tropical depression or storm.</li><li>This system could form as soon as Thursday.</li><li>Interests along the U.S. Gulf Coa… [+3105 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Kamala Harris says evacuating Americans, Afghan allies is Biden admin's 'highest priority' - Fox News",
+            "description": "Vice President Kamala Harris said evacuating Americans and U.S. allies in Afghanistan is the administration’s \"highest priority\" while answering reporters’ questions in Vietnam on Thursday.",
+            "url": "https://www.foxnews.com/politics/kamala-harris-evacuations-americans-afghan-allies-biden-priority",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21238141486605.jpg",
+            "publishedAt": "2021-08-26T09:32:50Z",
+            "content": "Vice President Kamala Harris said evacuating Americans and U.S. allies in Afghanistan is the administrations \"highest priority\" while answering reporters questions in Vietnam on Thursday. \r\nShe reite… [+2985 chars]"
+        }
+    ]
+}
